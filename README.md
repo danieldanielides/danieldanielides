@@ -1,3 +1,6 @@
+📌
+
+
 - 👋 Hi, I’m @danieldanielides
 - 👀 I’m interested in Data Science and its tools for better understanding and solving of different business problems
 - 🌱 I’m currently learning Python, SQL, Tableau tools
